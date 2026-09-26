@@ -14,7 +14,4 @@
 
 ## About me
 
-- 🎓 Software Engineering student
-- 💻 Currently learning C
-- 🌱 Beginning my journey in software development
 - 📚 Interested in back-end development and technology
